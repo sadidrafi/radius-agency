@@ -1,2 +1,1 @@
 import{t as e}from"./rolldown-runtime.Bi-D_2cA.mjs";function t(e,t){return{description:`Radius is a Bangladesh-based IT agency providing custom software, websites, automation, integrations and digital systems for growing businesses.`,favicon:`/assets/V5yI52BApwXWLsap5XhwYh91qkk.png`,robots:`max-image-preview:large`,socialImage:`/assets/VYiEkGzgaS8ya3osiWpMuRp3Hg.png`,title:`Radius | IT Agency in Bangladesh | Software & Automation`}}function n(){return(n=e((()=>{})))()}export{t as n,n as t};
-//# sourceMappingURL=siteMetadata.B4hHs1Vz.mjs.map
